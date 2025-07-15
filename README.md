@@ -1,5 +1,3 @@
-# Banking-System
-
 # 🏦 Banking System in C++
 
 This is a simple console-based banking system built using C++.
@@ -20,11 +18,7 @@ Accounts are stored in a binary file `accounts.dat` for data persistence.
 - Object-Oriented Programming
 
 ## 🚀 How to Run
-1. Compile: `g++ BankingSystem.cpp -o bank`
-2. Run: `./bank`
-
-## 📌 Note
-Run in the same directory where `accounts.dat` will be saved.
-
----
+1. Compile:
+   ```bash
+   g++ BankingSystem.cpp -o bank
 
